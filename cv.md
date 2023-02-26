@@ -26,7 +26,8 @@
             </nav>
         </div>
     </div>
-</header>```
+</header>
+```
 
 ### Completed courses - dmitry valak (MoGo, ActiveBox)
 ### English level - A1
