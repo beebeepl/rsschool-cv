@@ -1,1 +1,1 @@
-# rsschool-cv
+https://beebeepl.github.io/rsschool-cv/cv
