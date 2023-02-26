@@ -10,13 +10,13 @@
 ### HTML, CSS.
 
 
-```<header class="header">
+```
+<header class="header">
     <div class="container">
         <div class="header__inner">
             <div class="header__img">
                 <img src="img/ActiveBox.png" alt="">
             </div>
-
             <nav class="nav">
                 <a class="nav__link" href="">features</a>
                 <a class="nav__link" href="">works</a>
