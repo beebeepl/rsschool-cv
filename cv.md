@@ -10,8 +10,7 @@
 ### HTML, CSS.
 
 
-```        
-<header class="header">
+```<header class="header">
     <div class="container">
         <div class="header__inner">
             <div class="header__img">
@@ -27,10 +26,7 @@
             </nav>
         </div>
     </div>
-</header>
+</header>```
 
-```
-
-
-## Completed courses - dmitry valak (MoGo, ActiveBox)
-## English level - A1
+### Completed courses - dmitry valak (MoGo, ActiveBox)
+### English level - A1
