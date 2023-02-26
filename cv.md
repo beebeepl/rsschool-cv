@@ -26,4 +26,5 @@
             </div>
         </header>
 ```
+## Completed courses - dmitry valak (MoGo, ActiveBox)
 ## English level - A1
